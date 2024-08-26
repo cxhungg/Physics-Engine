@@ -9,9 +9,11 @@
 * Collisions
 
 
+## Quadtree ##
+
 ![quad_small](https://github.com/user-attachments/assets/a5bae33f-a4bb-41e4-a466-b4a57eabb163)
 
-
+## Rope ##
 
 ![rope](https://github.com/user-attachments/assets/dbd1d797-2db4-45f5-b706-8039b280cd0e)
 
