@@ -9,9 +9,7 @@
 * Collisions
 
 
-
-https://github.com/user-attachments/assets/5b3974ce-1cb9-40de-97b5-4fbf25b72352
-
+![quad_small](https://github.com/user-attachments/assets/a5bae33f-a4bb-41e4-a466-b4a57eabb163)
 
 
 
