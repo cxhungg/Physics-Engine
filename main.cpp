@@ -29,7 +29,7 @@ int main()
     const int screenWidth = 800;
     const int screenHeight = 600;
 
-    InitWindow(screenWidth, screenHeight, "MEN U SCREEN");
+    InitWindow(screenWidth, screenHeight, "Physics Engine!");
     SetTargetFPS(60);
 
     bool mainFlag = true;
